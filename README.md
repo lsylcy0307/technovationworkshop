@@ -1,4 +1,4 @@
-# technovationworkshop
+# Technovation Web-dev Workshop
 
 Basic File Information: 
 
